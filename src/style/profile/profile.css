@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    font-size: 35px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
